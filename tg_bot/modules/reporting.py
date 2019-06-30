@@ -119,7 +119,7 @@ def __user_settings__(user_id):
     return "You receive reports from chats you're admin in: `{}`.\nToggle this with /reports in PM.".format(
         sql.user_should_report(user_id))
 
-__mod_name__ =""
+__mod_name__ = ""
 
 
 __help__ = """
