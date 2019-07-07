@@ -29,7 +29,7 @@ python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ �
 HELP_STRINGS = """
 നമസ്കാരം ! എന്റെ പേര് *{}*.
 click [here](http://telegram.me/ramananpunjabibot?startgroup=botstart)to add to your group
-
+[🤒😠😉😘🤣😂](github.com/anandus0070/myrepo)
 
 {}
 And the following:
